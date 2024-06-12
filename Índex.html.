@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiro Sapato Sujo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background"></div>
+    <div class="content">
+        <h1>Primeiro "Sapato Sujo"</h1>
+        <p>
+            O primeiro "sapato sujo" de "E Se Obama Fosse Africano?" por Mia Couto trata da vitimização na África. Mia Couto critica a postura de se ver apenas como vítimas, argumentando que isso perpetua a dependência e impede o desenvolvimento. Ele defende a importância de os africanos assumirem a responsabilidade por seus destinos para alcançar um progresso sustentável.
+        </p>
+    </div>
+</body>
+</html>
